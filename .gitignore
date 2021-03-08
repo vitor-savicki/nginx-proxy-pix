@@ -1,0 +1,7 @@
+domains.ext
+localhost.crt
+localhost.csr
+RootCA.key
+RootCA.crt
+RootCA.srl
+localhost.key
