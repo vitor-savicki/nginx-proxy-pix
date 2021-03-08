@@ -6,7 +6,7 @@ Simply run:
 
 docker build .
 
-docker run -d -p 443:443 <image>
+docker run -d -p 443:443 "docker-image"
 
 # How to create an HTTPS certificate for localhost domains
 
