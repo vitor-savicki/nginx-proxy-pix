@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: nginx-proxy-pix
+  annotations:
+    github.com/project-slug: vitor-savicki/nginx-proxy-pix
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
